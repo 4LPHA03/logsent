@@ -39,10 +39,19 @@ Streamlit
 Rich (kolorowe tabele w terminalu)
 🚀 Uruchomienie
 1. Klonowanie repozytorium
-git clone https://github.com/4LPHA03/LogSentinel/
+
+
+git clone https://github.com/4LPHA03/LogSentinel/7
+
+
 cd LogSentinel
+
+
 Dla web: python -m streamlit run dashboard_main.py
+
+
 Dla terminala: python analyzer_off.py
+
 
 Instalacja zależności
 pip install -r requirements.txt
